@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="MvcJdbc">
+    <output-path>$PROJECT_DIR$/out/artifacts/MvcJdbc</output-path>
+    <root id="root">
+      <element id="archive" name="MvcJdbc.war" />
+    </root>
+  </artifact>
+</component>
